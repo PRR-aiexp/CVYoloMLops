@@ -1,0 +1,5 @@
+timestamp,url,out_path,status
+2025-12-05T00:57:43.253759,https://www.tvfestival.com/img/news/six-moments-plus-droles-de-friends/1.jpg,data/api_raw/20251205_005743_254082_1.jpg,ok
+2025-12-05T00:57:43.596532,https://www.tvfestival.com/img/news/six-moments-plus-droles-de-friends/2.jpg,data/api_raw/20251205_005743_596713_2.jpg,ok
+2025-12-05T00:57:43.829176,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkefkeUCmY8x-xcGI804nghnVYBNNNhAzxGw&s,data/api_raw/20251205_005743_829453_images?q=tbn:ANd9GcTkefkeUCmY8x-xcGI804nghnVYBNNNhAzxGw&s.jpg,ok
+2025-12-05T00:57:44.065884,https://thumbs.dreamstime.com/b/night-traffic-jam-london-uk-drives-down-towards-tower-tower-bridge-40028358.jpg?w=400,data/api_raw/20251205_005744_066222_night-traffic-jam-london-uk-drives-down-towards-tower-tower-bridge-40028358.jpg?w=400,ok
