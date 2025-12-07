@@ -1,0 +1,20 @@
+# Ignore ALL data by default
+data/
+
+# Keep only YAML config files from the YOLO dataset folder
+!data/yolo_dataset/
+!data/yolo_dataset/*.yaml
+!data/yolo_dataset/*.yml
+
+# Ignore Kaggle raw data
+kaggle_obj/
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# (Optional) ignore Python cache
+__pycache__/
+*.pyc
